@@ -1,0 +1,49 @@
+<html>
+<head>
+<style>
+<link rel=”stylesheet” href=“styles.css”>
+</style>
+</head>
+<body>
+  <header>
+    <center>Nina L. Powers </center>
+  </header>
+  <h3>
+    <center>nina_powers@emerson.edu // Boston, MA</center>
+  </h3>
+ <aside>
+    <img src="https://images.squarespace-cdn.com/content/v1/60391e8b90245c6adb45f99b/1686232726062-XLUWANHD9EH2502WGS8M/Nina+Powers-min.jpeg" alt="Nina Photo" <br>
+  </aside>
+  <section id="summary">
+    <h2>Summary</h2>
+    Junior Writing, Literature, and Publishing student at Emerson College. 
+  </section>
+  <section id="experience">
+    <h2>Professional Experience</h2>
+    <p>Co-Editor-In-Chief, Stork Magazine, 2022-Present<br>
+    <p>Student Ambassador, The Telling Room, 2022-Present<br>
+    <p>Assistant Managing Editor, The Emerson Review, 2023-Present<br>
+    <p>Young Emerging Author Fellow, The Telling Room, 2019-2020<br>
+    <p>Front Desk Assistant, Lacerte Family Writing and Academic Resource Center, 2021-Present<br>
+    <p>Writing, Literature, and Publishing Representative, Emerson Student Government Association, 2023-Present<br>
+    <p>Note Taker, Emerson College Student Accessibility Services, 2022-Present<br>
+  </section>
+  <section id="education">
+    <h2>Education</h2>
+    Morse High School—High School Diploma, High Honors, 2021<br>
+    Emerson College, BA in Writing, Literature, and Publishing, 2024(expected)<br>
+  </section>
+  <section id="skills">
+    <h2>Skills</h2>
+    InDesign<br>
+    Chicago Manual of Style<br>
+    Teamwork<br>
+    Story Editing<br>
+  </section>
+  <p>
+  <footer>
+    <center>
+      Email me: nina_powers@emerson.edu </center>
+  </footer>
+</body>
+</html>
