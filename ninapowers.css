@@ -1,0 +1,22 @@
+header
+{ background-color: #FFF0F5;
+  font-family: "copperplate", "fantasy";
+  font-size: 2.5em;
+}
+img{
+  width: 225px;
+}
+aside {
+  width: 30%;
+  height: 15%;
+  padding-left: 0px;
+  margin-left: 0px;
+  padding-right: 4px;
+  margin-right: 50px;
+  float: left;
+}
+footer
+{ background-color: #FFF0F5;
+  font-family: "copperplate", "fantasy";
+  font-size: 1em;
+}
