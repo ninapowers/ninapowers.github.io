@@ -20,4 +20,5 @@ footer
 { background-color: #FFF0F5;
   font-family: "copperplate", "fantasy";
   font-size: 1em;
+  float: bottom;
 }
