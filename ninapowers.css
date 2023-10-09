@@ -5,42 +5,13 @@ header
 }
 img {
   width: 225px;
-}
-summary {
+aside {
   width: 30%;
-  height: 15%;
   padding-left: 0px;
   margin-left: 0px;
   padding-right: 4px;
-  margin-right: 50px;
-  float: right;
-}
-experience {
-  width: 30%;
-  height: 15%;
-  padding-left: 0px;
-  margin-left: 0px;
-  padding-right: 4px;
-  margin-right: 50px;
-  float: right;
-}
-education {
-  width: 30%;
-  height: 15%;
-  padding-left: 0px;
-  margin-left: 0px;
-  padding-right: 4px;
-  margin-right: 50px;
-  float: right;
-}
-skills {
-  width: 30%;
-  height: 15%;
-  padding-left: 0px;
-  margin-left: 0px;
-  padding-right: 4px;
-  margin-right: 50px;
-  float: right;
+  margin-right: 4px;
+  float: left;
 }
 footer
 { background-color: #FFF0F5;
